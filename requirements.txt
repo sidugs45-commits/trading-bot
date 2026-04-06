@@ -1,1 +1,3 @@
 pyotp
+pandas
+smartapi-python
